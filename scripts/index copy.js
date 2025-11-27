@@ -13,7 +13,7 @@
   const LOOP_DELAY = 1000;
 
   // 🔹 교체 기준 시간들
-  const SWITCH_D2_AT = new Date("2025-11-29T00:40:00+09:00");
+  const SWITCH_D2_AT = new Date("2025-11-29T00:00:00+09:00");
   const SWITCH_D1_AT = new Date("2025-11-30T00:00:00+09:00");
 
   // ====== STATE ======
