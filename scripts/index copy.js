@@ -32,7 +32,7 @@
     const now = new Date();
 
     if (now >= SWITCH_D1_AT) {
-      return "d-1(fk).json"; // ⭐ 11/30 00:00 이후
+      return "d-1.json"; // ⭐ 11/30 00:00 이후
     }
     if (now >= SWITCH_D2_AT) {
       return "d-2.json"; // ⭐ 11/29 00:40 이후
